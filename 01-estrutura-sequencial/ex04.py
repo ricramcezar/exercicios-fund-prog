@@ -8,4 +8,4 @@ peso1 = 2
 peso2 = 3
 media_final = ((nota1 * peso1) + (nota2 * peso2)) / (peso1 + peso2)
 
-print(f"A média ponderada das notas é: {media_final}.")
+print(f"A média ponderada das notas é: {media_final:.2f}.")
